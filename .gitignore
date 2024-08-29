@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Cypress videos and screenshots
+cypress/videos/
+cypress/screenshots/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
